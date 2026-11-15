@@ -2,7 +2,7 @@ import java.util.ArrayList;
 /**
  * Represents a bonus quiz that gives the player extra points.
  *
- * @author Jiya M
+ * @author Jiya Mahalavat & Eva Pathak 
  */
 public class BonusQuiz extends Quiz {
 
