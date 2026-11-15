@@ -1,9 +1,15 @@
-import java.util.ArrayList;
 /**
  * Represents a bonus quiz that gives the player extra points.
  *
- * @author Jiya Mahalavat & Eva Pathak 
+ * I have only used resources indicated that are allowable.
+  The work submitted is my/our, and only my/our work.
+  Signature: Jiya Mahalavat & Eva Pathak 
+  Date: 9/14/2026
+
+  Author: Jiya
+ 
  */
+import java.util.ArrayList;
 public class BonusQuiz extends Quiz {
 
     private double bonusPoints;
