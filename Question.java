@@ -1,7 +1,12 @@
 /**
  * Represents one multiple-choice quiz question.
  
- * @author Jiya Mahalavat & Eva Pathak 
+ * I have only used resources indicated that are allowable.
+  The work submitted is my/our, and only my/our work.
+  Signature: Jiya Mahalavat & Eva Pathak 
+  Date: 9/14/2026
+
+  Author: Jiya 
  */
 public class Question {
 
@@ -88,7 +93,7 @@ public class Question {
 
     /**
      * Sets the correct answer.
-     *
+     * Created using ChatGPT because I didn't know how to "match" the correct answer or that it was a keyword. I was able to learn that [A-Da-d] checks for uppercase and lowercase letters A through D.
      * @param correctAnswer the correct letter (A, B, C, or D)
      */
     public void setCorrectAnswer(String correctAnswer) {
@@ -134,7 +139,7 @@ public class Question {
         System.out.println(questionText);
 
         for (int i = 0; i < answerChoices.length; i++) {
-            System.out.println(
+            System.out.println( 
                 (char) ('A' + i) + ". " + answerChoices[i]
             );
         }
