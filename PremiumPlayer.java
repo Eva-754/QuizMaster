@@ -2,7 +2,12 @@
  * Represents a premium player who receives a discount
  * when purchasing hints.
  *
- * @author Jiya Mahalavat & Eva Pathak 
+ * I have only used resources indicated that are allowable.
+  The work submitted is our, and only our work.
+  Signature: Jiya Mahalavat & Eva Pathak 
+  Date: 9/14/2026
+
+  Author: Jiya
  */
 public class PremiumPlayer extends Player {
 
