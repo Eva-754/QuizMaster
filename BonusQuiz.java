@@ -2,7 +2,7 @@
  * Represents a bonus quiz that gives the player extra points.
  *
  * I have only used resources indicated that are allowable.
-  The work submitted is my/our, and only my/our work.
+  The work submitted is our, and only our work.
   Signature: Jiya Mahalavat & Eva Pathak 
   Date: 9/14/2026
 
