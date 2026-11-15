@@ -36,7 +36,7 @@ public class Question {
 
     /**
      * Gets the question text.
-     *
+     * 
      * @return the question text
      */
     public String getQuestionText() {
@@ -60,7 +60,7 @@ public class Question {
 
     /**
      * Gets the answer choices.
-     *
+     * Created using ChatGPT because I didn't know how to create a copy of the answer choices. 
      * @return a copy of the answer choices
      */
     public String[] getAnswerChoices() {
